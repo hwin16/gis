@@ -73,7 +73,7 @@ sklearn==0.0
 snuggs==1.4.7
 tensorboard==2.0.0
 tensorflow-estimator==2.0.0
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.6.4
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
